@@ -32,9 +32,23 @@ NGO_Volunteer_System/
 │
 ├── app.py
 ├── database.py
+├── auth.py
+├── requirements.txt
+├── README.md
+│
 ├── pages/
+│   ├── dashboard.py
+│   ├── volunteers.py
+│   ├── events.py
+│   ├── attendance.py
+│   ├── admin.py
+│
 ├── assets/
-└── README.md
+│   ├── style.css
+│   ├── images/
+│
+└── utils/
+    ├── helpers.py
 ```
 
 ## How to Run the Project
